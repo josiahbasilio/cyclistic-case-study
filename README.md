@@ -14,5 +14,22 @@ The Mission Statement: The bike-sharing company (Cyclistic) wants to analyze the
 
 ## PHASE 2: PREPARE
 ### Key objectives: 
+1. The credibility of the data: The data was downloaded directly from Divvy Bikes website: https://ride.divvybikes.com/system-data 
+
+The data was organized by months, and assumed to be credible since it was published and compiled by the organization. Within the data, there were some anomalies (these were highlighted in the presentation file).
+
+2. Sort and filter the data: For the analysis I'm going to be focused on the 2020-2021 period as it's more relevant period to the business task, and it was a more complete data with types of bikes used and geo-location coordinates. 
+
+3. We are using the dataset from Septmember 2020 to August 2021.
+
+4. Organize the data in folders and subfolders, using proper naming conventions and saved the data as csv files.
+
+5. Sort and Filter the Data: Data is too large for spreadsheets 
+
+Imported the data to Postgresql and sorted it by writing SQL querry for removing nulls from all columns. 
+
+
+
+
 
 
