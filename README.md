@@ -24,9 +24,18 @@ The data was organized by months, and assumed to be credible since it was publis
 
 4. Organize the data in folders and subfolders, using proper naming conventions and saved the data as csv files.
 
-5. Sort and Filter the Data: Data is too large for spreadsheets 
+5. Sort and Filter the Data: Data is too large for spreadsheets, Postgresql will be used for the data. 
 
-Imported the data to Postgresql and sorted it by writing SQL querry for removing nulls from all columns. 
+Imported the data to Postgresql and sorted it by writing SQL querry to remove columns with null values. 
+
+## PHASE 3: PROCESS
+### Key objectives:
+1. Check the data for errors
+2. Choose your tools
+3. Transform the data so you can work effectively
+4. Document the cleaning process 
+
+
 
 
 
