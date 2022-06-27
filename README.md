@@ -33,7 +33,9 @@ Imported the data to Postgresql and sorted it by writing SQL querry to remove co
 1. Check the data for errors
 2. Choose your tools
 3. Transform the data so you can work effectively
-4. Document the cleaning process 
+4. Document the cleaning process
+
+-Next step is to talk about adding a new column of trip_length and combing all data into one table 
 
 
 
