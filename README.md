@@ -35,7 +35,29 @@ Imported the data to Postgresql and sorted it by writing SQL querry to remove co
 3. Transform the data so you can work effectively
 4. Document the cleaning process
 
--Next step is to talk about adding a new column of trip_length and combing all data into one table 
+### Adding a new columns to the dataset in PostgreSQL:
+
+After looking at the data, I see that some columns need to be added for them to be used in analysis later.
+The columns are:
+
+1. A new column for trip length (hours,minutes,seconds) was created to calculate the length of each ride.
+
+2. A new column for date_of_ride was extracted from started_at, results in date only.
+
+3. A new column for time_of_ride was extracted from started_at, results in time only.
+
+4. A new column for day_of_week was extracted from started_at, results in 0-6 as day of weeks where 0 = sun and 6 = sat.
+
+Now we have a clean dataset with no null values, and 4 new columns ready for analysis.
+
+Additional data I was unsure was marked for exclusion from the final dataset. 
+
+A full description of the process: (insert: google_cyclistic_sql) 
+
+## PHASE 4: ANALYSIS
+### Key objectives:
+
+
 
 
 
