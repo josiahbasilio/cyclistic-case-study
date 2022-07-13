@@ -55,7 +55,18 @@ Additional data I was unsure was marked for exclusion from the final dataset.
 A full description of the process: (insert: google_cyclistic_sql) 
 
 ## PHASE 4: ANALYSIS
-### Key objectives:
+### Key objectives: 
+1. Aggregate your data so it's useful and accessible.
+2. Organize and format your data. 
+3. Perform calculations.
+4. Identify trends and relationships. 
+
+### Displaying the summary of the dataset:
+
+Insert dataset here
+
+
+### Calculating Mean, Median, Max and Min ride length 
 
 
 
