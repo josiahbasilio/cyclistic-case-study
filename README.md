@@ -68,6 +68,13 @@ Insert dataset here
 
 ### Calculating Mean, Median, Max and Min ride length 
 
+New goal:
+1. download data with the new columns to excel
+2. create a new table with the downloaded data in pgadmin 
+3. import the new data with the new columns 
+4. perform calculations 
+
+
 
 
 
