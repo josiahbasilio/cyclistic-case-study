@@ -68,11 +68,16 @@ Insert dataset here
 
 ### Calculating Mean, Median, Max and Min ride length 
 
-New goal:
-1. download data with the new columns to excel
-2. create a new table with the downloaded data in pgadmin 
-3. import the new data with the new columns 
-4. perform calculations 
+Average: 23:27
+
+Median: 13:07 
+
+Max: 23:59:59
+
+Min: 0:0:0
+
+### Calculating the number of rides taken by casual riders and number of rides taken by members
+
 
 
 
