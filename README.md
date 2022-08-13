@@ -78,6 +78,10 @@ Min: 0:0:0
 
 ### Calculating the number of rides taken by casual riders and number of rides taken by members
 
+Casual: 2102079
+
+Members: 2629002 
+
 
 
 
